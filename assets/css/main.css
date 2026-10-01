@@ -836,7 +836,7 @@ section,
 }
 
 .hero .btn-get-started:hover {
-  background-color: color-mix(in srgb, var(--accent-color) 90%, white 10%);
+  background-color: color-mix(in srgb, var(--accent-color) 50%, white 50%);
 }
 
 /*--------------------------------------------------------------
