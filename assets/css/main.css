@@ -688,7 +688,7 @@ h6 {
 }
 
 .page-title .heading .cta-btn:hover {
-  background-color: color-mix(in srgb, var(--accent-color) 90%, white 10%);
+  background-color: color-mix(in srgb, var(--accent-color) 100%, white 0%);
 }
 
 .page-title nav {
